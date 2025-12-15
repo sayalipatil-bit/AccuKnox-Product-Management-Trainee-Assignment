@@ -2,14 +2,14 @@
 
 ## Cloud Posture Dashboard: Design a simple way for users to view and filter misconfigurations across multiple cloud accounts.
 
-## Problem Statement :-
+## Problem Statement
 Nowadays organizations use multiple cloud accounts AWS, Azure and GCP. Each cloud has its own dashboards, policies and security alerts, which makes it hard for teams to track misconfigurations in one place. Because of this, issues often go unnoticed and fixing them becomes slow and reactive.
 There is need for a single, easy to understand dashboard where users can quickly view, filter, and prioritize misconfigurations across all cloud accounts at once.
 
-## Goal :-
+## Goal
 Design a Cloud posture Dashboard that gives a simple, centralized way to view, filter and prioritize cloud misconfigurations across multiple cloud accounts.
 
-## User Persona:-
+## User Persona
 Primary User- Cloud Security Engineer/ DevOps Engineer
 Manages multiple cloud accounts
 Responsible for identifying and fixing misconfigurations 
