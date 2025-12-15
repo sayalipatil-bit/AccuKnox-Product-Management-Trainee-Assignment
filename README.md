@@ -19,17 +19,29 @@ Primary User- Cloud Security Engineer/ DevOps Engineer
 6. Values a simple UI because thy switch between many tools daily
 
 ## User Goals-
-See all cloud issues in one view
-Prioritize high risk misconfigurations
-Filter quickly by cloud, severity or resource type
-Understand what to fix first
-Reduce time spent navigating different cloud consoles
+1. See all cloud issues in one view
+2. Prioritize high risk misconfigurations
+3. Filter quickly by cloud, severity or resource type
+4. Understand what to fix first
+5. Reduce time spent navigating different cloud consoles
 
 ## Proposed features
-Unified Misconfigurations List Combine AWS, Azure and GCP issues in one table Include cloud provider, resource, issue description, severity
-Filters Tab (Left Side) Cloud provider (AWS/ Axure/ GCP) Severity (High/ Medium/ Low) Resource Type (Compute, Storage, Network, IAM)
-Summary Cards (Top of Dashboard) Total High/ Medium/ Low issues Number of affected accounts
-Issue Details Drawer When clicking on view issue details, a right-side panel opens with: Root cause Impact Severity Recommended fix View in cloud console Mark as resolved These features focus on speed, clarity and reducing mental load.
+1. Unified Misconfigurations List Combine AWS, Azure and GCP issues in one table
+2. Include cloud provider, resource, issue description, severity
+3. Filters Tab (Left Side)
+   Cloud provider (AWS/ Axure/ GCP)
+   Severity (High/ Medium/ Low)
+   Resource Type (Compute, Storage, Network, IAM)
+4. Summary Cards (Top of Dashboard) Total High/ Medium/ Low issues with number of affected accounts
+5. Issue Details When clicking on view issue details, a right-side panel opens with:
+   Root cause
+   Impact
+   Severity
+   Recommended fix
+   View in cloud console
+   Mark as resolved
+
+These features focus on speed, clarity and reducing mental load.
 
 ## Prioritization Rationale
 I prioritized features based on: User’s most common task, reducing noise and ease of development
