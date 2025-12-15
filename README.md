@@ -55,9 +55,11 @@ I prioritized features based on: User’s most common task, reducing noise and e
 Main Dashboard Screen- 
 
 <img width="1440" height="800" alt="Main Dashboard" src="https://github.com/user-attachments/assets/4b26d4e0-7d30-45bf-a57b-788f383050fc" />
+
 Filter Screen- 
 
 <img width="1440" height="800" alt="Filter Page" src="https://github.com/user-attachments/assets/26d66d87-2c6f-4d79-98a1-95f483c03a36" />
+
 Issue Details Screen- 
 
 <img width="1440" height="800" alt="Issue Details Page" src="https://github.com/user-attachments/assets/7b0848fa-557c-42b6-8999-81b8b340de2c" />
