@@ -11,12 +11,12 @@ Design a Cloud posture Dashboard that gives a simple, centralized way to view, f
 
 ## User Persona
 Primary User- Cloud Security Engineer/ DevOps Engineer
-Manages multiple cloud accounts
-Responsible for identifying and fixing misconfigurations 
-Works with limited time and high alert volume
-Needs a quick way to see high risk issues first 
-Relies on clear filters to narrow down problems 
-Values a simple UI because thy switch between many tools daily
+1. Manages multiple cloud accounts
+2. Responsible for identifying and fixing misconfigurations
+3. Works with limited time and high alert volume
+4. Needs a quick way to see high risk issues first
+5. Relies on clear filters to narrow down problems
+6. Values a simple UI because thy switch between many tools daily
 
 ## User Goals-
 See all cloud issues in one view
