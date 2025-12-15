@@ -32,8 +32,8 @@ Primary User- Cloud Security Engineer/ DevOps Engineer
    Cloud provider (AWS/ Axure/ GCP)
    Severity (High/ Medium/ Low)
    Resource Type (Compute, Storage, Network, IAM)
-4. Summary Cards (Top of Dashboard) Total High/ Medium/ Low issues with number of affected accounts
-5. Issue Details when clicking on view issue details, a right-side panel opens with: Root cause, Impact, Severity, Recommended fix, View in cloud console, Mark as resolved
+4. Summary Cards (Top of Dashboard) High/ Medium/ Low and Total issues
+5. By clicking on view issue details, a right-side panel opens with: Root cause, Impact, Severity, Recommended fix, View in cloud console, Mark as resolved
 
 These features focus on speed, clarity and reducing mental load.
 
@@ -52,10 +52,19 @@ I prioritized features based on: User’s most common task, reducing noise and e
 5. User Satisfaction- Aim for >8/10 from Security/ DevOps teams
 
 ## Wireframes
-Main Dashboard- <img width="1440" height="800" alt="Main Dashboard" src="https://github.com/user-attachments/assets/4b26d4e0-7d30-45bf-a57b-788f383050fc" />
-Filter- <img width="1440" height="800" alt="Filter Page" src="https://github.com/user-attachments/assets/26d66d87-2c6f-4d79-98a1-95f483c03a36" />
-Issue Details- <img width="1440" height="800" alt="Issue Details Page" src="https://github.com/user-attachments/assets/7b0848fa-557c-42b6-8999-81b8b340de2c" />
+Main Dashboard Screen- 
+<img width="1440" height="800" alt="Main Dashboard" src="https://github.com/user-attachments/assets/4b26d4e0-7d30-45bf-a57b-788f383050fc" />
+Filter Screen- 
+<img width="1440" height="800" alt="Filter Page" src="https://github.com/user-attachments/assets/26d66d87-2c6f-4d79-98a1-95f483c03a36" />
+Issue Details Screen- 
+<img width="1440" height="800" alt="Issue Details Page" src="https://github.com/user-attachments/assets/7b0848fa-557c-42b6-8999-81b8b340de2c" />
 
+## Figma Design Links
+Figma File (includes annotations)
+https://www.figma.com/design/6g3dSk9OXF8ODxM6fmUEYb/Cloud-Posture-Dashboard?node-id=0-1&t=H1ZdHHX0m8xF5EWV-1
+
+Figma Prototype (click through flow)
+https://www.figma.com/proto/6g3dSk9OXF8ODxM6fmUEYb/Cloud-Posture-Dashboard?node-id=0-1&t=H1ZdHHX0m8xF5EWV-1
 
 ## References:
 https://www.elastic.co/docs/solutions/security/dashboards/cloud-security-posture-dashboard
