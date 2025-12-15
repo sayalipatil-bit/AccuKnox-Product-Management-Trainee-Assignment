@@ -71,7 +71,7 @@ https://www.figma.com/design/6g3dSk9OXF8ODxM6fmUEYb/Cloud-Posture-Dashboard?node
 Figma Prototype (click through flow)
 https://www.figma.com/proto/6g3dSk9OXF8ODxM6fmUEYb/Cloud-Posture-Dashboard?node-id=0-1&t=H1ZdHHX0m8xF5EWV-1
 
-## References:
+## References
 1. https://www.elastic.co/docs/solutions/security/dashboards/cloud-security-posture-dashboard
 2. https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-cloud-overview-dashboard
 3. https://www.tenable.com/cloud-security/solutions/cspm
