@@ -18,7 +18,7 @@ Primary User- Cloud Security Engineer/ DevOps Engineer
 5. Relies on clear filters to narrow down problems
 6. Values a simple UI because thy switch between many tools daily
 
-## User Goals-
+## User Goals
 1. See all cloud issues in one view
 2. Prioritize high risk misconfigurations
 3. Filter quickly by cloud, severity or resource type
