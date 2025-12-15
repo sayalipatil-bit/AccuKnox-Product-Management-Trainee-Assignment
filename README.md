@@ -51,12 +51,15 @@ I prioritized features based on: User’s most common task, reducing noise and e
 4. Reduction in unresolved high severity issues- Measures real impact
 5. User Satisfaction- Aim for >8/10 from Security/ DevOps teams
 
-## Wireframes
+## Wireframes Screenshots
 Main Dashboard Screen- 
+
 <img width="1440" height="800" alt="Main Dashboard" src="https://github.com/user-attachments/assets/4b26d4e0-7d30-45bf-a57b-788f383050fc" />
 Filter Screen- 
+
 <img width="1440" height="800" alt="Filter Page" src="https://github.com/user-attachments/assets/26d66d87-2c6f-4d79-98a1-95f483c03a36" />
 Issue Details Screen- 
+
 <img width="1440" height="800" alt="Issue Details Page" src="https://github.com/user-attachments/assets/7b0848fa-557c-42b6-8999-81b8b340de2c" />
 
 ## Figma Design Links
@@ -67,7 +70,7 @@ Figma Prototype (click through flow)
 https://www.figma.com/proto/6g3dSk9OXF8ODxM6fmUEYb/Cloud-Posture-Dashboard?node-id=0-1&t=H1ZdHHX0m8xF5EWV-1
 
 ## References:
-https://www.elastic.co/docs/solutions/security/dashboards/cloud-security-posture-dashboard
-https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-cloud-overview-dashboard
-https://www.tenable.com/cloud-security/solutions/cspm
-https://accuknox.com/
+1. https://www.elastic.co/docs/solutions/security/dashboards/cloud-security-posture-dashboard
+2. https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-cloud-overview-dashboard
+3. https://www.tenable.com/cloud-security/solutions/cspm
+4. https://accuknox.com/
