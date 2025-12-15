@@ -1,6 +1,6 @@
 # AccuKnox-Product-Management-Trainee-Assignment
 
-## Cloud Posture Dashboard: Design a simple way for users to view and filter misconfigurations across multiple cloud accounts.
+Cloud Posture Dashboard: Design a simple way for users to view and filter misconfigurations across multiple cloud accounts.
 
 ## Problem Statement
 Nowadays organizations use multiple cloud accounts AWS, Azure and GCP. Each cloud has its own dashboards, policies and security alerts, which makes it hard for teams to track misconfigurations in one place. Because of this, issues often go unnoticed and fixing them becomes slow and reactive.
@@ -50,6 +50,12 @@ I prioritized features based on: User’s most common task, reducing noise and e
 3. Click through to detailed issue view- Shows engagement with the data
 4. Reduction in unresolved high severity issues- Measures real impact
 5. User Satisfaction- Aim for >8/10 from Security/ DevOps teams
+
+## Wireframes
+Main Dashboard- <img width="1440" height="800" alt="Main Dashboard" src="https://github.com/user-attachments/assets/4b26d4e0-7d30-45bf-a57b-788f383050fc" />
+Filter- <img width="1440" height="800" alt="Filter Page" src="https://github.com/user-attachments/assets/26d66d87-2c6f-4d79-98a1-95f483c03a36" />
+Issue Details- <img width="1440" height="800" alt="Issue Details Page" src="https://github.com/user-attachments/assets/7b0848fa-557c-42b6-8999-81b8b340de2c" />
+
 
 ## References:
 https://www.elastic.co/docs/solutions/security/dashboards/cloud-security-posture-dashboard
