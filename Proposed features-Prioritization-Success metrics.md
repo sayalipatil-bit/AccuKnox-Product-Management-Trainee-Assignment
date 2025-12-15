@@ -20,6 +20,7 @@ Mark as resolved
 These features focus on speed, clarity and reducing mental load.
 
 B. Prioritization Rationale
+
 I prioritized features based on: User’s most common task, Reducing noise, Fater troubleshooting, Ease of Development 
 •	Users primarily look for high risk issues, so summary cards + severity filters are top priority.
 •	Filters reduce noise, helping users focus instantly.
